@@ -1,0 +1,33 @@
+[ 
+    {
+        "img_url": "./p10.jpg",
+        "firstName": "Rack",
+        "lastName": "Jackon",
+        "gender": "man",
+        "rating": 18
+    },
+    {
+        "img_url":"./prototype.PNG",
+        "firstName": "Disha",
+        "lastName": "lunagariya",
+        "gender": "female",
+        "rating": 24
+    },
+    {
+        "img_url":"./s-1.PNG",
+        "firstName": "mahek",
+        "lastName": "lunagariya",
+        "gender": "female",
+        "rating": 20
+    },
+    {
+        "img_url":"./ring topology.PNG",
+        "firstName": "maulik",
+        "lastName": "lunagariya",
+        "gender": "male",
+        "rating":17
+    }
+    
+]
+   
+    

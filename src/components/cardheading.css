@@ -1,0 +1,30 @@
+.card-heading{
+    margin-bottom:3.2rem;
+}
+.card{
+    height: 53rem;
+    width: 50rem;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+img{
+    width: 100%;
+}
+.card-content{
+    padding:  1.2rem 1rem ;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem ;
+}
+.superhit{
+    background-color: blueviolet;
+}
+.flop{
+    background-color: chartreuse;
+}
+.rating
+{
+    padding: 0.3rem 1.8rem;
+    color: black;
+    margin-left: 1.2rem;
+    border-radius: 100rem;
+}
